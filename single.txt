@@ -1,3 +1,4 @@
 single test
 single second test
 third test -u
+forth test
